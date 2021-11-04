@@ -1,0 +1,15 @@
+Man använder add när man vill lägga till ändringar i staging area och man använder
+commit för att lägga till ändringarna till sin lokala repository. 
+
+Man använder pull när man vill hämta commits och uppdatera sin locala working area
+ med de hämtade commitsen. Man använder push för att flytta commits till en 
+remote repository som uppdaterar ändringarna.
+
+Man använder log när man vill se vad som har hänt i den aktuella branchen det visar alltså
+vilka commits som har gjorts medan status använder man när man vill se vad som har hänt 
+och vad som finns på gång med tydlig lista över vad som kan addas, commitas eller pushas.
+
+Man ska formulera sina commit-meddelanden tydligt och kortfattat om vilken ändring man har 
+gjort för att det ska kunna vara lätt att se förändringarna när man tittar på listan av de 
+olika versionerna av filen.
+
